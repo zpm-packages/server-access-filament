@@ -1,3 +1,5 @@
+<img width="2560" height="1440" alt="server access" src="https://github.com/user-attachments/assets/45329568-10b9-4d77-8fd4-30a395e42c4c" />
+
 # ZPMPackages Server Access Filament
 
 Filament admin resources and page actions for the Laravel server-access stack. This package plugs into a Filament panel and exposes server, user, and SSH key management on top of `zpm-packages/server-access-laravel`.
