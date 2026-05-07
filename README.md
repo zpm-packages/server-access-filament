@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="server access" src="https://github.com/user-attachments/assets/45329568-10b9-4d77-8fd4-30a395e42c4c" />
+<img width="2560" height="1440" alt="server access" src="https://github.com/user-attachments/assets/45329568-10b9-4d77-8fd4-30a395e42c4c" filament-hidden />
 
 # ZPMPackages Server Access Filament
 
